@@ -20,7 +20,7 @@
 ---
 ## PROJECTS  
   📖[Wikipedia UI & Mobile Tests](https://github.com/Kirvel48/wikipedia-tests)  
-  🐶:[PetStore Api Tests](https://github.com/Kirvel48/petstore-apitests)
+  🐶[PetStore Api Tests](https://github.com/Kirvel48/petstore-apitests)
   
 ---
 ## CONTACTS  
