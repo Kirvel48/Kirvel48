@@ -1,6 +1,9 @@
-## Привет, я Кирилл!👋
+# Welcome to my GitHub page! 👋    
 
-STACK
+## ABOUT ME  
+### My name is Kirill and I'm QA-engoneer since 2021
+---
+## STACK
 <p align="center">  
 <a href="https://www.jetbrains.com/idea/"><img src="images/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA"/></a>  
 <a href="https://www.java.com/"><img src="images/Java.svg" width="50" height="50"  alt="Java"/></a>  
@@ -14,9 +17,16 @@ STACK
 <a href="https://www.atlassian.com/ru/software/jira/"><img src="images/Jira.svg" width="50" height="50"  alt="Jira"/></a>  
 </p>
 
-PROJECT
+---
+## PROJECTS  
+  📖[Wikipedia UI & Mobile Tests](https://github.com/Kirvel48/wikipedia-tests)  
+  🐶:[PetStore Api Tests](https://github.com/Kirvel48/petstore-apitests)
+  
+---
+## CONTACTS  
+Telegram https://t.me/kirve1
 
-
+---
 <!--
 **Kirvel48/Kirvel48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
