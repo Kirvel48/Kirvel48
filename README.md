@@ -1,7 +1,7 @@
 # Welcome to my GitHub page! 👋    
 
 ## ABOUT ME  
-### My name is Kirill and I'm QA-engoneer since 2021
+### My name is Kirill and I'm QA-engineer since 2021
 ---
 ## STACK
 <p align="center">  
