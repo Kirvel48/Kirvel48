@@ -19,7 +19,7 @@
 
 ---
 ## PROJECTS  
-  📖[Wikipedia Mobile Tests](https://github.com/Kirvel48/wikipedia-tests) - проект автотестирования мобильного приложения Wiki  
+  📖[Wikipedia Mobile Tests](https://github.com/Kirvel48/wikiMobile) - проект автотестирования мобильного приложения Wiki  
   🐶[PetStore Api Tests](https://github.com/Kirvel48/petstore-apitests) - проект API автотестирования сервиса Petstore  
   💾[Testengineer Web Tests](https://github.com/Kirvel48/TestengineerWebTests) - проект UI автотестирования сайта testengineer.ru
   
